@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866485015093",
+    "project_id": "snap-news-e9e57",
+    "storage_bucket": "snap-news-e9e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866485015093:android:7332f59836b28a2c69d77c",
+        "android_client_info": {
+          "package_name": "com.sontuyen.snapnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOK3UJC6fdjzhW2FitYqD9Mg-_elq_5AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866485015093:android:4e31fc9c7bef097469d77c",
+        "android_client_info": {
+          "package_name": "com.thaison.snapnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOK3UJC6fdjzhW2FitYqD9Mg-_elq_5AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
